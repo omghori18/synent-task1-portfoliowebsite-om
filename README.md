@@ -8,6 +8,8 @@ Designed with modern design aesthetics, smooth animations, and high performance 
 
 ## 🚀 Live Demo & Visuals
 
+![Om Ghori Portfolio Preview](assets/screenshot.png)
+
 - **Developer:** Om Ghori (BTech Computer Engineering at CHARUSAT University)
 - **Role:** Aspiring AI & ML Engineer
 - **Core Portfolio Codebase:** [index.html](file:///Users/ghoriommukeshbai/Desktop/internship/index.html) | [style.css](file:///Users/ghoriommukeshbai/Desktop/internship/style.css)
