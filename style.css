@@ -240,9 +240,9 @@ footer {
 }
 
 .nav-links a {
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-secondary);
   transition: color var(--transition-fast);
   padding: 8px 0;
   position: relative;
@@ -261,11 +261,13 @@ footer {
   transition: transform var(--transition);
 }
 
-.nav-links a:hover {
+.nav-links a:hover,
+.nav-links a.active {
   color: var(--accent);
 }
 
-.nav-links a:hover::after {
+.nav-links a:hover::after,
+.nav-links a.active::after {
   transform: scaleX(1);
   transform-origin: left;
 }
